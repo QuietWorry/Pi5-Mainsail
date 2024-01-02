@@ -2,12 +2,12 @@
 Simple Guide to setting up Mainsail OS on a Raspberry Pi 5 using RPI and Kiauh via SSH
 
 1. Flash SD with Raspbery Pi OS Lite
-  1.1 Install and open officail Raspberry Pi Imager (https://www.raspberrypi.com/software/)
-  1.2 Select:
-   - Device > Raspberry Pi 5
-   - OS > Raspberry Pi OS (other) > Raspberry Pi OS Lite (64-bit)
-   - Storage > [YOUR_SD_CARD_NAME]
-  1.3 Customize settings and flash firmware
+  a. Install and open officail Raspberry Pi Imager (https://www.raspberrypi.com/software/)
+  b. Select:
+   i. Device > Raspberry Pi 5
+   iii. OS > Raspberry Pi OS (other) > Raspberry Pi OS Lite (64-bit)
+   iii. Storage > [YOUR_SD_CARD_NAME]
+  c. Customize settings and flash firmware
    - Click "Next" on RPI
    - Click "Edit Settings"
    - Enable "Set hostname" and change hostname as desired
@@ -20,4 +20,4 @@ Simple Guide to setting up Mainsail OS on a Raspberry Pi 5 using RPI and Kiauh v
    - Click "yes" to erase all data on SD if prompted
    - Wait for OS to write and verify
    - Safely remove SD and install on Pi 5
-2. 
+3. 
